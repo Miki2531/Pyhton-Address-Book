@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Miko",
+        "address": "Bishoftu",
+        "phone": "0925316338",
+        "email": "mikiyasshemelis46@gmail.com",
+        "id": "0965"
+    },
+    {
+        "name": "Yosef",
+        "address": "Adiss Abeba",
+        "phone": "123456",
+        "email": "yosi@gmail.com",
+        "id": "a158"
+    },
+    {
+        "name": "Yonas",
+        "address": "Keta",
+        "phone": "0912345567",
+        "email": "yonsa@gmail.com",
+        "id": "6c34"
+    },
+    {
+        "name": "henok",
+        "address": "adama",
+        "phone": "09345678",
+        "email": "henok@gmail.com",
+        "id": "f5c2"
+    }
+]
