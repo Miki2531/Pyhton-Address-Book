@@ -7,17 +7,11 @@
         "id": "0965"
     },
     {
-        "name": "Yosef",
-        "address": "Adiss Abeba",
-        "phone": "123456",
-        "email": "yosi@gmail.com",
-        "id": "a158"
-    },
-    {
         "name": "Yonas",
         "address": "Keta",
         "phone": "0912345567",
         "email": "yonsa@gmail.com",
+        "gender": "M",
         "id": "6c34"
     },
     {
@@ -25,6 +19,39 @@
         "address": "adama",
         "phone": "09345678",
         "email": "henok@gmail.com",
+        "gender": "M",
         "id": "f5c2"
+    },
+    {
+        "name": "Miko",
+        "address": "Adiss ",
+        "phone": "092345676",
+        "email": "miko@gmail.com",
+        "gender": "M",
+        "id": "7aa1"
+    },
+    {
+        "name": "Mikiyas shemelis",
+        "address": "Bishoftu",
+        "phone": "0912340987",
+        "email": "mikiyas@gmail.com",
+        "gender": "M",
+        "id": "bb8e"
+    },
+    {
+        "name": "senayet",
+        "address": "bishoftu",
+        "phone": "0976542342",
+        "email": "seni@gmail.com",
+        "gender": "F",
+        "id": "d031"
+    },
+    {
+        "name": "Fasiga",
+        "address": "Bishoftu",
+        "phone": "0927456734",
+        "email": "fasi@gmail.com",
+        "gender": "F",
+        "id": "fe67"
     }
 ]
